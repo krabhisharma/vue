@@ -1,0 +1,50 @@
+.nav-bar {
+    background: linear-gradient(-90deg, #84CF6A, #16C0B0);
+    height: 60px;
+    margin-bottom: 15px;
+  }
+.h{text-align: center;
+margin-top: 5px;}
+  body {
+    background-color: #ff4d4d;
+  }
+    .b{
+    font-size: 35px;
+    text-align: center;
+    background-color: #ff9900;
+    font-family: "Times New Roman", Times, serif;
+  }
+    
+     .replay {
+              padding: 5px;
+          }
+          button {
+            
+            background-color: #16C0B0;
+              display: block;
+              min-width: 100px;
+              font-size: 1.8em;
+              font-family: sans-serif;
+              border-radius: 25px;
+              margin-top: 20px;
+        border-color: black;	
+          }
+          .output{
+      font-size: 25px;
+      padding:20px;
+      }
+          input {
+            text-align: center;
+            margin-top: 10px;
+              font-size: 1.5em;
+        border-radius:35em;
+        padding-left:25px ;   
+        border-color: black;	
+        }
+      .ins{
+      vertical-align: middle;
+    position: absolute;
+    width: 80%;
+    bottom: 20px;
+      }
+      
