@@ -12,7 +12,7 @@
     <div class ="b">
     {{message}}<br>
     {{da}}<br></div>
-<div class="h"> {{result}} <br><b>You have clicked:{{count}}</b><br></div>
+<div class="h"> {{result}} <br><b>You have score:{{count}}</b><br></div>
 <div class="input"align="center">  <input type="number" id="input" v-on:input="userInput=$event.target.value"><br></div>
     <div class="button" align="center"> <button v-on:click.prevent="guess()" v-on:click="count+=1">GUESS</button><br></div>
     <div class="ins" align="left">
